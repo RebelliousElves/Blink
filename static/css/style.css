@@ -1,0 +1,23 @@
+h1 {
+  font-family: verdana;
+  font-weight: normal;
+  text-align: center;
+}
+
+body {
+  background: url("/static/images/background_blur.jpg");
+  background-size: cover;
+}
+
+img {
+  width: 20vw;
+  display: block;
+  margin: 0 auto;
+}
+
+p.result {
+  color: white;
+  font-family: verdana;
+  font-size: 1.1em;
+  text-align: center;
+}

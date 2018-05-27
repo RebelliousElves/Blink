@@ -29,3 +29,6 @@ def home():
         return render_template("index.html", result={'result': headline})
 
     return render_template("index.html", result={})
+
+if __name__ == '__main__':
+    app.run()
